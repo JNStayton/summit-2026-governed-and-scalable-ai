@@ -2,6 +2,8 @@
 
 Use this template after discussing the task-specific outcome, invariants, human decision boundary, completion evidence, and owner. The `building-governed-skills` skill supplies evidence discovery, skill structure, artifact boundaries, behavioral acceptance, and self-review.
 
+This prompt is intended to be used as a template for future iterations and building additional skills in your projects. Use our layering prompts to guide you, and experiment with this prompt and the skill building skill to generate additional resources for your projects.
+
 Replace every `<placeholder>` before submitting the prompt.
 
 ```text
